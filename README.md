@@ -1,1 +1,1 @@
-![Fathimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=st10371629&show_icons=true&theme=radical)
+[![Fathima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST10371629)](https://github.com/ST10371629/github-readme-stats)
