@@ -42,8 +42,7 @@
       <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat&logo=mongodb&logoColor=73daca&labelColor=1a1b26&color=73daca" />
       <img src="https://img.shields.io/badge/Excel-1a1b26?style=flat&logo=microsoftexcel&logoColor=bb9af7&labelColor=1a1b26&color=bb9af7" />
       <img src="https://img.shields.io/badge/Jupyter-1a1b26?style=flat&logo=jupyter&logoColor=7aa2f7&labelColor=1a1b26&color=7aa2f7" />
-      <img src="https://img.shields.io/badge/After_Effects-1a1b26?style=flat&logo=adobeaftereffects&logoColor=73daca&labelColor=1a1b26&color=73daca" />
-      <img src="https://img.shields.io/badge/Photoshop-1a1b26?style=flat&logo=adobephotoshop&logoColor=bb9af7&labelColor=1a1b26&color=bb9af7" />
+      <img src="https://img.shields.io/badge/Photoshop-1a1b26?style=flat&logo=adobephotoshop&logoColor=bb9af7&labelColor=1a1b26&color=73daca" />
     </p>
   </div>
 </div>
